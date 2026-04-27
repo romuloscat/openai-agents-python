@@ -1,0 +1,2 @@
+model: o3
+tools: [read_file, list_files, create_file, run_command, search_files, github_api]
